@@ -1,0 +1,7 @@
+6cef55,127.0.0.1,GET,http://localhost:8000/,1734522037,,200
+53559d,127.0.0.1,GET,http://localhost:8000/login,1734522043,,200
+3d6de2,127.0.0.1,POST,http://localhost:8000/login,1734522049,,302
+f7d284,127.0.0.1,GET,http://localhost:8000/tinder,1734522050,,200
+0c45cc,127.0.0.1,GET,http://localhost:8000/match,1734522057,,200
+ea9e1f,127.0.0.1,GET,http://localhost:8000/profile,1734522061,,200
+523ff1,127.0.0.1,GET,http://localhost:8000/,1734522235,,200
